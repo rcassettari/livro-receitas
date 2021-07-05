@@ -4,3 +4,4 @@ Olá, seja bem vindo ao livro de receitas :wave:
 
 - Strogonoff de frango  
 - Mortadela a milanesa
+- Sanduiche de Peru
